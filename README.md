@@ -10,4 +10,5 @@ Haar Cascade is an Object Detection Algorithm used to identify faces in an image
 Research paper : https://ieeexplore.ieee.org/document/990517
 
 Result:
-![Screenshot (448)](https://user-images.githubusercontent.com/49087609/136614670-c0706fdf-d03d-432d-b77f-782ab96dd617.png)
+![Screenshot (449)](https://user-images.githubusercontent.com/49087609/136614860-e1b113ce-8d45-426b-987f-27a967468219.png)
+
