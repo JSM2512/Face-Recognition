@@ -7,7 +7,7 @@ VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSV
 
 ### Face detection using Haar Cascade frontal face algorithm
 Haar Cascade is an Object Detection Algorithm used to identify faces in an image or a real time video. The algorithm uses edge or line detection features proposed by Viola and Jones in their research paper “Rapid Object Detection using a Boosted Cascade of Simple Features” published in 2001. The algorithm is given a lot of positive images consisting of faces, and a lot of negative images not consisting of any face to train on them.
-Research paper : https://ieeexplore.ieee.org/document/990517
+#### Research paper : https://ieeexplore.ieee.org/document/990517
 
 ### Result:
 ![Screenshot (449)](https://user-images.githubusercontent.com/49087609/136614860-e1b113ce-8d45-426b-987f-27a967468219.png)
